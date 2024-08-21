@@ -1,0 +1,202 @@
+year,state,sub_class,area_km
+2008.0,AC,nao_classificado,288.79241877983173
+2008.0,AM,nao_classificado,612.1312716011365
+2008.0,AP,nao_classificado,99.91568042926211
+2008.0,MA,nao_classificado,725.1130032966855
+2008.0,MT,nao_classificado,3303.8229383386106
+2008.0,PA,nao_classificado,5621.394381854729
+2008.0,RO,nao_classificado,1068.4996452104438
+2008.0,RR,nao_classificado,665.1372149138014
+2008.0,TO,nao_classificado,55.19776613128304
+2009.0,AC,nao_classificado,161.73879847802218
+2009.0,AM,nao_classificado,342.09462651563695
+2009.0,AP,nao_classificado,47.456754447965444
+2009.0,MA,nao_classificado,454.9711677078679
+2009.0,MT,nao_classificado,779.3400983264236
+2009.0,PA,nao_classificado,3556.2838686503087
+2009.0,RO,nao_classificado,420.09996360819054
+2009.0,RR,nao_classificado,111.24286785370533
+2009.0,TO,nao_classificado,22.17617116996792
+2010.0,AC,nao_classificado,265.36664097333244
+2010.0,AM,nao_classificado,545.3531616333594
+2010.0,AP,nao_classificado,72.2383486994804
+2010.0,MA,nao_classificado,245.1754567758037
+2010.0,MT,nao_classificado,716.3865437969391
+2010.0,PA,nao_classificado,3312.311364737451
+2010.0,RO,nao_classificado,425.84203630972337
+2010.0,RR,nao_classificado,234.77573683900718
+2010.0,TO,nao_classificado,27.45606232874897
+2011.0,AC,nao_classificado,295.7855907125428
+2011.0,AM,nao_classificado,507.9013152878856
+2011.0,AP,nao_classificado,16.61548131902317
+2011.0,MA,nao_classificado,172.33402161487945
+2011.0,MT,nao_classificado,1000.6613986534661
+2011.0,PA,nao_classificado,2506.6233626486537
+2011.0,RO,nao_classificado,761.1805120958654
+2011.0,RR,nao_classificado,129.6216197865292
+2011.0,TO,nao_classificado,10.30860262917835
+2012.0,AC,nao_classificado,270.5346941267801
+2012.0,AM,nao_classificado,470.91918175688073
+2012.0,AP,nao_classificado,19.44944948830559
+2012.0,MA,nao_classificado,113.11253573178072
+2012.0,MT,nao_classificado,748.2775626833323
+2012.0,PA,nao_classificado,1697.1495850021738
+2012.0,RO,nao_classificado,690.9341576526527
+2012.0,RR,nao_classificado,107.39724761173984
+2012.0,TO,nao_classificado,9.644788289407384
+2013.0,AC,nao_classificado,200.24007028524352
+2013.0,AM,nao_classificado,480.9736125534113
+2013.0,AP,nao_classificado,24.236671939332
+2013.0,MA,nao_classificado,160.0595647565573
+2013.0,MT,nao_classificado,1061.8748006814667
+2013.0,PA,nao_classificado,2098.5578500140505
+2013.0,RO,nao_classificado,962.3293781431581
+2013.0,RR,nao_classificado,148.41412189534688
+2013.0,TO,nao_classificado,17.144990758347873
+2014.0,AC,nao_classificado,348.58670609254654
+2014.0,AM,nao_classificado,552.8243291380647
+2014.0,AP,nao_classificado,29.10542620642102
+2014.0,MA,nao_classificado,142.95062042031486
+2014.0,MT,nao_classificado,1048.0746641193307
+2014.0,PA,nao_classificado,1794.4433241450383
+2014.0,RO,nao_classificado,760.3710211454248
+2014.0,RR,nao_classificado,189.05890046539358
+2014.0,TO,nao_classificado,11.82165275836661
+2015.0,AC,nao_classificado,223.00373894696486
+2015.0,AM,nao_classificado,687.3563898112125
+2015.0,AP,nao_classificado,19.109309712416557
+2015.0,MA,nao_classificado,116.28171953093414
+2015.0,MT,nao_classificado,1436.048892163755
+2015.0,PA,nao_classificado,2304.34699283205
+2015.0,RO,nao_classificado,958.6860871856146
+2015.0,RR,nao_classificado,154.2936463564739
+2015.0,TO,nao_classificado,12.45043664765521
+2016.0,AC,nao_classificado,366.3125842674658
+2016.0,AM,nao_classificado,1003.7061045626572
+2016.0,AP,nao_classificado,12.413974140648634
+2016.0,MA,nao_classificado,131.8068027059765
+2016.0,MT,nao_classificado,1366.3079352003458
+2016.0,PA,nao_classificado,2762.65640609059
+2016.0,RO,nao_classificado,1192.5348893859612
+2016.0,RR,nao_classificado,228.4013593105971
+2016.0,TO,nao_classificado,14.9299169686214
+2017.0,AC,nao_classificado,245.73157626197445
+2017.0,AM,nao_classificado,1009.8776678278414
+2017.0,AP,nao_classificado,17.26830202769329
+2017.0,MA,nao_classificado,156.61142350464252
+2017.0,MT,nao_classificado,1345.4327566832867
+2017.0,PA,nao_classificado,2571.6451297348212
+2017.0,RO,nao_classificado,1276.637274999729
+2017.0,RR,nao_classificado,121.88157657033065
+2017.0,TO,nao_classificado,12.7066122191343
+2018.0,AC,nao_classificado,426.58892106783827
+2018.0,AM,nao_classificado,1051.243234111627
+2018.0,AP,nao_classificado,24.56686850771761
+2018.0,MA,nao_classificado,99.11339000395814
+2018.0,MT,nao_classificado,1408.22845991889
+2018.0,PA,nao_classificado,2604.027643893941
+2018.0,RO,nao_classificado,1208.0221713206695
+2018.0,RR,nao_classificado,126.64818891781903
+2018.0,TO,nao_classificado,4.760367420061143
+2019.0,AC,nao_classificado,706.9380026367377
+2019.0,AM,nao_classificado,1556.8914681752099
+2019.0,AP,nao_classificado,39.061574920012625
+2019.0,MA,nao_classificado,170.05105045192983
+2019.0,MT,nao_classificado,1822.8736721785522
+2019.0,PA,nao_classificado,4461.666428976621
+2019.0,RO,nao_classificado,1392.8418591749128
+2019.0,RR,nao_classificado,542.6746107228464
+2019.0,TO,nao_classificado,9.619698235587236
+2020.0,AC,nao_classificado,660.8126168404132
+2020.0,AM,nao_classificado,1420.4088669439654
+2020.0,AP,nao_classificado,10.34481984756804
+2020.0,MA,nao_classificado,233.67366723347192
+2020.0,MT,nao_classificado,1775.6926750688608
+2020.0,PA,nao_classificado,4618.449189295016
+2020.0,RO,nao_classificado,1304.1638227290998
+2020.0,RR,nao_classificado,321.33041981795765
+2020.0,TO,nao_classificado,10.115499541875142
+2021.0,AC,nao_classificado,892.610973141977
+2021.0,AM,nao_classificado,2167.098538082548
+2021.0,AP,nao_classificado,16.089384739840785
+2021.0,MA,nao_classificado,176.7851070392324
+2021.0,MT,nao_classificado,1919.6165348277764
+2021.0,PA,nao_classificado,5083.7589591755295
+2021.0,RO,nao_classificado,1640.067951617178
+2021.0,RR,nao_classificado,283.6909598768111
+2021.0,TO,nao_classificado,11.300231903811685
+2022.0,AC,corte raso com solo exposto,813.0355381947572
+2022.0,AC,corte raso com vegetação,167.15906619793302
+2022.0,AC,nao_classificado,25.669366942160405
+2022.0,AM,corte raso com solo exposto,2524.4601379610026
+2022.0,AM,corte raso com vegetação,452.8529928314931
+2022.0,AM,mineração,23.07528318408805
+2022.0,AM,nao_classificado,47.29557048191157
+2022.0,AP,corte raso com solo exposto,9.903448166969511
+2022.0,AP,corte raso com vegetação,2.1728188579307925
+2022.0,AP,mineração,1.2529428667140832
+2022.0,AP,nao_classificado,0.742534509405248
+2022.0,MA,corte raso com solo exposto,101.1220518034873
+2022.0,MA,corte raso com vegetação,29.790793902929988
+2022.0,MA,mineração,0.1859981440922479
+2022.0,MA,nao_classificado,13.232653422898494
+2022.0,MT,corte raso com solo exposto,1093.2190004666995
+2022.0,MT,corte raso com vegetação,386.3393218963636
+2022.0,MT,floresta inundada,0.09598236074846983
+2022.0,MT,mineração,4.242800184071581
+2022.0,MT,nao_classificado,497.44294637980715
+2022.0,PA,corte raso com solo exposto,2585.811370914736
+2022.0,PA,corte raso com vegetação,1637.0626011658057
+2022.0,PA,mineração,53.555520859625396
+2022.0,PA,nao_classificado,251.5924424472045
+2022.0,RO,corte raso com solo exposto,872.7114299134504
+2022.0,RO,corte raso com vegetação,496.3776023269763
+2022.0,RO,floresta inundada,0.13737247302621905
+2022.0,RO,mineração,0.3982023189182707
+2022.0,RO,nao_classificado,78.82737363079167
+2022.0,RR,corte raso com solo exposto,150.99613455415508
+2022.0,RR,corte raso com vegetação,114.76362558944683
+2022.0,RR,floresta inundada,0.5908937247411014
+2022.0,RR,mineração,13.047841840376465
+2022.0,RR,nao_classificado,13.785048012225039
+2022.0,TO,corte raso com solo exposto,13.875334375830615
+2022.0,TO,corte raso com vegetação,1.2416374684290536
+2022.0,TO,nao_classificado,1.3251682786666288
+2023.0,AC,corte raso com solo exposto,275.8898807208561
+2023.0,AC,corte raso com vegetação,136.6862830082037
+2023.0,AC,nao_classificado,50.374790558134926
+2023.0,AM,corte raso com solo exposto,879.8606117495113
+2023.0,AM,corte raso com vegetação,336.1851216379544
+2023.0,AM,floresta inundada,1.1451805698367417
+2023.0,AM,mineração,27.348650585545467
+2023.0,AM,nao_classificado,65.01365719218069
+2023.0,AP,corte raso com solo exposto,12.610990186950703
+2023.0,AP,corte raso com vegetação,0.8186342453541622
+2023.0,AP,mineração,1.7859632042606073
+2023.0,AP,nao_classificado,0.528528088345938
+2023.0,MA,corte raso com solo exposto,116.87720080333774
+2023.0,MA,corte raso com vegetação,33.22970339388721
+2023.0,MA,floresta inundada,0.04423610290972264
+2023.0,MA,mineração,2.0114361731681005
+2023.0,MA,nao_classificado,5.486748236291896
+2023.0,MT,corte raso com solo exposto,656.1954810950166
+2023.0,MT,corte raso com vegetação,317.6621478693917
+2023.0,MT,mineração,5.7890837132411885
+2023.0,MT,nao_classificado,925.4622961623134
+2023.0,PA,corte raso com solo exposto,1308.0180604463633
+2023.0,PA,corte raso com vegetação,1092.5746487329168
+2023.0,PA,floresta inundada,0.09662853786590667
+2023.0,PA,mineração,48.11870830389824
+2023.0,PA,nao_classificado,434.8060485552895
+2023.0,RO,corte raso com solo exposto,415.2558796768162
+2023.0,RO,corte raso com vegetação,270.4196925152847
+2023.0,RO,floresta inundada,0.032145293802614563
+2023.0,RO,mineração,0.3405184627065333
+2023.0,RO,nao_classificado,108.28480949136231
+2023.0,RR,corte raso com solo exposto,178.70245310739696
+2023.0,RR,corte raso com vegetação,79.36906605338211
+2023.0,RR,mineração,0.6041635826494133
+2023.0,RR,nao_classificado,17.333651193040915
+2023.0,TO,corte raso com solo exposto,4.383689781223277
+2023.0,TO,corte raso com vegetação,1.070978676198766
+2023.0,TO,nao_classificado,1.7307823931866329
